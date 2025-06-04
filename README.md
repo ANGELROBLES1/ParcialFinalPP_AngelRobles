@@ -1,5 +1,7 @@
 # ParcialFinalPP_AngelRobles
 
+*Serie de Fourier:* Es una serie infinita que converge puntualmente a una función periódica y continua
+
 # Implementaciones:
   - calcular_serie_fourier_iterativa
   - calcular_serie_fourier_recursiva
