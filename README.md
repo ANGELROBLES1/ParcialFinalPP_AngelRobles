@@ -5,12 +5,14 @@
 
 # Implementaciones:
   - ## Iterativa
-  - ![image](https://github.com/user-attachments/assets/5447a960-52eb-4c0c-a182-e75a13003036)
-  - 
+  - ![image](https://github.com/user-attachments/assets/42ebf630-4fa6-4c31-958b-de6c9ca46ea3)
+
+  - ![Iterativo100](https://github.com/user-attachments/assets/f3057326-fd26-475a-8064-09b2700bb97d)
+
 
   - ## Recursiva
-  - ![image](https://github.com/user-attachments/assets/efdc22de-2e02-46e7-b396-345cd41688d0)
-  - ![Recursivo](https://github.com/user-attachments/assets/33036b17-28a7-4734-8377-da5aed646a71)
+  - 
+  - 
 
 # Analisis Comparativo
   - **¿Cuál método resulta más eficiente?**
