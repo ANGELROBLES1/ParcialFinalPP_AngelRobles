@@ -27,7 +27,7 @@
 
 - Despues de varias pruebas hechas, se visualiza que el metodo de **RECURSIVIDAD** es ligeramente mejor al tiempo pero para numeros pequeños. Probe con el numero 100Y 50, ahi el metodo que gano fue el iterativo esto quiere decir que para numeros grandes el metodo de **ITERACION** es mejor.
 - 
-  - **¿Por qué? (Considera aspectos como la complejidad temporal, la profundidad de recursión y la legibilidad del código)**
+  - ## **¿Por qué? (Considera aspectos como la complejidad temporal, la profundidad de recursión y la legibilidad del código)**
 
 - En el aspecto de complejidad temporal tengo claro que en el iterativo ambos son O(n) osea complejidad de tiempo lineal de un algoritmo. Sin embargo en el **iterativo** se ejecuta un solo ciclo sin demas cosas a llamar a las funciones. En el **recursivo** cada llamado de una funcion genera un movimiento en la pila al ejecutar
 
