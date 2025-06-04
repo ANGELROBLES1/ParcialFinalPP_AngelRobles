@@ -11,8 +11,10 @@
 
 
   - ## Recursiva
-  - 
-  - 
+  - ![image](https://github.com/user-attachments/assets/7a6e0f04-d1b4-4779-9008-010538230443)
+
+  - ![image](https://github.com/user-attachments/assets/79400a8b-3083-4bf8-8315-d0aa3f48b1f0)
+
 
 # Analisis Comparativo
   - **¿Cuál método resulta más eficiente?**
