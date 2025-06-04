@@ -4,8 +4,8 @@
 - **Serie:** Comunicación de datos bit a bit a través de un único canal
 
 # Implementaciones:
-  - calcular_serie_fourier_iterativa
-  - calcular_serie_fourier_recursiva
+  - iterativa
+  - recursiva
 
 # Analisis Comparativo
   - **¿Cuál método resulta más eficiente?**
