@@ -6,11 +6,11 @@
 # Implementaciones:
   - ## Iterativa
   - ![image](https://github.com/user-attachments/assets/5447a960-52eb-4c0c-a182-e75a13003036)
-  - ![Recursivo](https://github.com/user-attachments/assets/33036b17-28a7-4734-8377-da5aed646a71)
+  - 
 
   - ## Recursiva
   - ![image](https://github.com/user-attachments/assets/efdc22de-2e02-46e7-b396-345cd41688d0)
-
+  - ![Recursivo](https://github.com/user-attachments/assets/33036b17-28a7-4734-8377-da5aed646a71)
 
 # Analisis Comparativo
   - **¿Cuál método resulta más eficiente?**
