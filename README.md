@@ -4,8 +4,8 @@
 - **Serie:** Comunicación de datos bit a bit a través de un único canal
 
 # Implementaciones:
-  - iterativa
-  - recursiva
+  - Iterativa
+  - Recursiva
 
 # Analisis Comparativo
   - **¿Cuál método resulta más eficiente?**
