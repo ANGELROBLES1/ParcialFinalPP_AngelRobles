@@ -25,10 +25,15 @@
 
   - ## **¿Cuál método resulta más eficiente?**
 
-- Despues de varias pruebas hechas, se visualiza que el metodo de **RECURSIVIDAD** es ligeramente mejor al tiempo pero para numeros pequeños. Probe con el numero 100 y ahi el metodo que gano fue el iterativo esto quiere decir que para numeros grandes el metodo de **ITERACION** es mejor.
-
-
-
-
-    
+- Despues de varias pruebas hechas, se visualiza que el metodo de **RECURSIVIDAD** es ligeramente mejor al tiempo pero para numeros pequeños. Probe con el numero 100Y 50, ahi el metodo que gano fue el iterativo esto quiere decir que para numeros grandes el metodo de **ITERACION** es mejor.
+- 
   - **¿Por qué? (Considera aspectos como la complejidad temporal, la profundidad de recursión y la legibilidad del código)**
+
+- En el aspecto de complejidad temporal tengo claro que en el iterativo ambos son O(n) osea complejidad de tiempo lineal de un algoritmo. Sin embargo en el **iterativo** se ejecuta un solo ciclo sin demas cosas a llamar a las funciones. En el **recursivo** cada llamado de una funcion genera un movimiento en la pila al ejecutar
+
+- Siguiendo con el aspecto de la profundidad de la **recursion** estas generan muchas llamadas que se estan apilando asi consumiendo mas memoria en su momento, en los casos por ejemplo de valores grandes como lo probe con el 100 y 50 puede ser ineficiente y puede llegar a desbordasrse la pila en el peor de los casos
+
+- En el ultimo aspecto de legibilidad del codigo nos quiere decir que en el codigo de **recursividad** este es como mas formal y es mucho mas facil de leer para problemas como hemos hecho con los factoriales, fibonacci y demas cosas. El codigo de iteracion es mas eficiente en los terminos de recursos de uso pero es mucho mas largo incluso se me complico en su momento ademas es menos intuitivo en algunos casos
+
+
+
