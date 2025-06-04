@@ -5,17 +5,30 @@
 
 # Implementaciones:
   - ## Iterativa
-  - ![image](https://github.com/user-attachments/assets/42ebf630-4fa6-4c31-958b-de6c9ca46ea3)
+  - ![image](https://github.com/user-attachments/assets/68b68bd4-ca86-46a0-b436-8dae625ebbbf)
 
-  - ![Iterativo100](https://github.com/user-attachments/assets/f3057326-fd26-475a-8064-09b2700bb97d)
+
+  - ![image](https://github.com/user-attachments/assets/baff73d4-402e-4667-8f58-e8fbc89fe386)
+
 
 
   - ## Recursiva
-  - ![image](https://github.com/user-attachments/assets/7a6e0f04-d1b4-4779-9008-010538230443)
+  - ![image](https://github.com/user-attachments/assets/3224bf0c-5eef-4cd9-8b0b-d8af7d855f1d)
 
-  - ![image](https://github.com/user-attachments/assets/79400a8b-3083-4bf8-8315-d0aa3f48b1f0)
+
+  - ![image](https://github.com/user-attachments/assets/4603aaf9-7c7b-4e9d-810f-a6bf89330309)
+
 
 
 # Analisis Comparativo
-  - **¿Cuál método resulta más eficiente?**
+- ![image](https://github.com/user-attachments/assets/0a12f4e3-2966-4bcb-a326-3b9524786df7)
+
+  - ## **¿Cuál método resulta más eficiente?**
+
+- Despues de varias pruebas hechas, se visualiza que el metodo de **RECURSIVIDAD** es ligeramente mejor al tiempo pero para numeros pequeños. Probe con el numero 100 y ahi el metodo que gano fue el iterativo esto quiere decir que para numeros grandes el metodo de **ITERACION** es mejor.
+
+
+
+
+    
   - **¿Por qué? (Considera aspectos como la complejidad temporal, la profundidad de recursión y la legibilidad del código)**
